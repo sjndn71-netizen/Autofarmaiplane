@@ -1,6 +1,6 @@
 -- !! Replace this with your raw GitHub URL !!
 -- Example: https://raw.githubusercontent.com/YourName/YourRepo/main/vehicle_hub.lua
-local SCRIPT_URL = "https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/vehicle_hub.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/sjndn71-netizen/Autofarmaiplane/refs/heads/main/vehicle_hub.lua?token=GHSAT0AAAAAADZAXPS2DG4RYZIJJTGFI5MU2PIF37A"
 
 local RS, Players, Http, Run = game:GetService("ReplicatedStorage"), game:GetService("Players"), game:GetService("HttpService"), game:GetService("RunService")
 local P = Players.LocalPlayer
